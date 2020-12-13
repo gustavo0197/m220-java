@@ -1,6 +1,6 @@
 jwtSecret=SUPER_SECRET_KEY_YOU_WANT_TO_REPLACE_THIS
 jwtExpirationInMs=604800000
-spring.mongodb.uri=mongodb+srv://m220student:m220password@mflix.wy1yy.mongodb.net/test
+spring.mongodb.uri=mongodb://localhost:27017/test
 spring.mongodb.database=sample_mflix
 server.port=5000
 server.error.whitelabel.enabled=false
